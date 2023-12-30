@@ -10,7 +10,7 @@
 
 ### api Endpoints
 
-* /api/blogs    GET  | get all posts with pagination , filtering and search in blog title and content  ------ query params (page , limit, search , createdAt = 1 ot -1)
+* /api/blogs?page=1&limit=5&search=blog&createdAt=1    GET  | get all posts with pagination , filtering and search in blog title and content  ------ query params (page , limit, search , createdAt = 1 ot -1)
 * /api/blog    POST  | create new blog (title and content) are required  | send user Authorization AccessToken in Headers
 * /api/blog/${id}  GET | get single blog data
 * /api/blog/${id}  DELETE | delete blog (reuired user accessToken in headers "Authorization")
