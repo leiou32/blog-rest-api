@@ -30,4 +30,4 @@
 
 ## Postman collection url
 
-* https://api.postman.com/collections/14069286-edb7dc07-74cb-4c82-bb79-57233d18724b?access_key=PMAT-01HJWCJGQ88CCGJH6A85EWFTTH
+* https://api.postman.com/collections/14069286-b6053f17-8999-4a88-a324-b66abaff54f0?access_key=PMAT-01HJY9W11P9B0WHAGDERYM90GK
